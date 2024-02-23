@@ -1,0 +1,14 @@
+body {
+  background-color: #121212;
+  color: white;
+}
+
+.App {
+  text-align: center;
+  opacity: 0.87;
+}
+
+.kamehameha-btn {
+  background-color: blue;
+}
+
